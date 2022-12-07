@@ -1,0 +1,25 @@
+﻿uses graphabc;
+begin
+randomize;
+setpencolor(clrandom);
+circle(300,200,random(200));
+circle(300,200,random(190));
+circle(300,200,random(180));
+circle(300,200,random(170));
+circle(300,200,random(160));
+circle(300,200,random(150));
+circle(300,200,random(140));
+circle(300,200,random(130));
+circle(300,200,random(120));
+circle(300,200,random(110));
+circle(300,200,random(100));
+circle(300,200,random(90));
+circle(300,200,random(80));
+circle(300,200,random(70));
+circle(300,200,random(60));
+circle(300,200,random(50));
+circle(300,200,random(40));
+circle(300,200,random(30));
+circle(300,200,random(20));
+circle(300,200,random(10));
+end.
